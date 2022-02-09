@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi cho em <3',
     reply: 'Đồng ý',
     mess: ' Anh biết mà 🥰. Yêu chị nhiều nhiều 😘😘',
-    messDesc: 'Hẹn ngày mai gặp chị.',
+    messDesc: 'Hẹn ngày mai gặp chị, nhớ ib cho e nha <3.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/huunguyen358/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
